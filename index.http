@@ -1,0 +1,7 @@
+POST https://3000-monospace-travel-dairy-record-1712715127996.cluster-22qpi2wzsjc4utjzyqn2yu6ar6.cloudworkstations.dev/login/
+Content-Type: application/json
+
+{
+    "username": "rahul",
+    "password": "rahul@2021"
+}
